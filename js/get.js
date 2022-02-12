@@ -1,4 +1,3 @@
-import e from 'express';
 import fetch from 'node-fetch';
 const args = process.argv;
 try{
