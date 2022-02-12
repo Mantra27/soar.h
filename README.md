@@ -6,7 +6,8 @@ Syntax:
 
 ```cpp
 string data = get(APIendpoint, dataType);
-string data2 = post(APIendpoint, body, dataType)
+string data2 = post(APIendpoint, body, dataType);
+
 //Currently Supported DataTypes --> json, text
 ```
 
