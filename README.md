@@ -1,2 +1,3 @@
-# apis-cpp
-Calling APIs made easy for in C++ (yet another JavaScript repo :3)
+# SOAR
+Calling APIs made easy for in C++ (JavaScript like format), (currently unstable)
+<img src="https://raw.githubusercontent.com/Mantra27/soar/main/.ignore/assets/carbon.png?token=GHSAT0AAAAAABRKCOP3HC3WMDT227U6DJUQYQQVOXA" width="50%" height="50%"></img>
